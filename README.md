@@ -2,7 +2,7 @@
 
 🎓 **Senior Computer Science Major** @ University of Tennessee at Martin (Graduating Dec 2025)  
 🔬 Researching **Machine Learning**, **Connectomics**, and **Neural System Modeling**  
-🧠 Currently working on the **Flywire.ai Project** with Dr. Lowe — building constrained RNNs (“neural pills”) shaped by real fruit-fly connectome data  
+🧠 Currently working on the **Flywire.ai Project** with Dr. Lowe — building constrained RNNs shaped by real fruit-fly connectome data using neuropils
 📊 Presenting results at **ACM Mid-Southeast Conference 2025**
 
 ---
